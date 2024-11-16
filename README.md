@@ -10,5 +10,5 @@ For detailed information and raw data, see [here](https://book.ncrnalab.org/teac
 ## Notes
 
 1. Most of the intermediate files are omitted because of space limitations.
-2. The origin folders is: `/WORK/hechang/summer` on the T-cluster.
+2. The origin folder is: `/WORK/hechang/summer` on the T-cluster.
 
