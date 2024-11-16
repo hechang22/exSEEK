@@ -1,5 +1,5 @@
 # exSEEK
-Bioinformatic in Action, 2023 Autumn 
+*Bioinformatic in Action*, 2024 Autumn   
 
 ## Description
 
